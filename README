@@ -1,0 +1,8 @@
+= TestFlight Deploy Script
+
+A very simple testflight-deploy script for my personal use. Deploy code with rest-client was taken from https://github.com/lukeredpath/betabuilder/blob/master/lib/beta_builder/deployment_strategies/testflight.rb of https://github.com/lukeredpath/betabuilder. Thanks to https://github.com/lukeredpath for Betabuilder. It was a bit too much for my purpose.
+
+--------------------------------------------------------------------
+
+== Usage
+ruby testflight-deploy.rb MyApp1.0.ipa ReleaseNote_1.0.txt
