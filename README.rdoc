@@ -5,4 +5,4 @@ A very simple testflight-deploy script for my personal use. Deploy code with res
 --------------------------------------------------------------------
 
 == Usage
-ruby testflight-deploy.rb MyApp1.0.ipa ReleaseNote_1.0.txt
+  ruby testflight-deploy.rb MyApp1.0.ipa ReleaseNote_1.0.txt
